@@ -5,7 +5,7 @@
 
 <br>
 
-<h3>First, enter roblox with tools like "Multiple Roblox".</h3>
+<h3>First, enter roblox in three accounts with tools like "Multiple Roblox".</h3>
 
 <h3>Then you can execute the script:</h3>
 
