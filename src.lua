@@ -1,5 +1,3 @@
--- first, enter roblox with 3 accs (you can use the tool multiple roblox)
-
 local anan=game:GetService("Players")
 
 local main_account = _G.robot_main -- put your main account here
