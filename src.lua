@@ -11,7 +11,7 @@ local bot1 = anan:FindFirstChild(bot1)
 local bot2 = anan:FindFirstChild(bot2)
 
 if anan.LocalPlayer.Name == main_account then
--- ignore main acc
+-- ignore refreshing from main acc
 else
     while true do
         task.wait(0.01) -- refreshing timeout
