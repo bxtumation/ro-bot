@@ -10,7 +10,7 @@ local mainacc = anan:FindFirstChild(main_account)
 local bot1 = anan:FindFirstChild(bot1)
 local bot2 = anan:FindFirstChild(bot2)
 
-if anan.LocalPlayer == main_account then
+if anan.LocalPlayer.Name == main_account then
 -- ignore main acc
 else
     while true do
