@@ -6,6 +6,8 @@
 
 <h3>First, enter roblox in three accounts with tools like "Multiple Roblox".</h3>
 
+<h3>The executor must be executed into all of the clients.</h3>
+
 <h3>Then you can execute the script:</h3>
 
 ```lua
